@@ -1,0 +1,10 @@
+__pycache__/
+_cache/
+_pipwork/
+_pybuild/
+_pybuild312/
+dist/
+dist312/
+*.pyc
+*.blend1
+*.before_letter_studio*
